@@ -1,0 +1,16 @@
+# Site Settings
+languageCode = "en-us"
+title = "Google Code-in Grand Prize Winners"
+baseurl = "http://gci-winners.info/"
+theme = "hugo-highlights-theme"
+
+[params]
+
+	# SEO metadata
+	name = "Google Code-in Grand Prize Winners"
+	description = "Showcasing the winners of GCI."
+
+	[params.hero]
+		title = "Google Code-in Grand Prize Winners"
+		description = "Showcasing the winners of GCI."
+		buttontext = "Take a look"
