@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/GCI-2015-GPW/GCI-2015-GPW.github.io
+	branch = master
