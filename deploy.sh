@@ -29,3 +29,6 @@ git add .
 
 # Commit the sumodule changes
 git commit -s -m "[SUBMODULE] Update submodule public/ on `date`"
+
+# Puah to source repos
+git push origin master
