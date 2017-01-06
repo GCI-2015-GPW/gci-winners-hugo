@@ -23,3 +23,9 @@ git push origin master
 
 # Come Back
 cd ..
+
+# Add submodule changes
+git add .
+
+# Commit the sumodule changes
+git commit -s -m "[SUBMODULE] Update submodule public/ on `date`"
